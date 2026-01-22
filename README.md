@@ -25,8 +25,5 @@ Currently a trainee in the **Egypt Digital Pioneers Initiative (EDPI)** by MCIT.
   <img src="grad.jpg" width="300" />
   <img src="card.jpg" width="450" />
 </p>
----
-
-## 🎖 Honors & Recognition
 - **EDPI Scholarship:** Selected for professional Flutter training (MCIT).
 - **Faculty Graduation Shield:** Recognized for outstanding academic performance.
