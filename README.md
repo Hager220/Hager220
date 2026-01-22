@@ -20,10 +20,20 @@ Currently a trainee in the **Egypt Digital Pioneers Initiative (EDPI)** by MCIT.
 ## 🏆 Featured Projects
 - **Cairo Metro Navigator:** A smart transit app with pathfinding and GPS location.
 - **Doctor App (Graduation Project):** Healthcare platform integrated with AI.
+
+---
+
 ## 🎖 Honors & Recognition
-<p align="center">
-  <img src="grad.jpg" width="300" />
-  <img src="card.jpg" width="450" />
-</p>
-- **EDPI Scholarship:** Selected for professional Flutter training (MCIT).
-- **Faculty Graduation Shield:** Recognized for outstanding academic performance.
+
+| Graduation Shield | Route Academy Certificate |
+| :---: | :---: |
+| <img src="grad.jpg" width="300" alt="Graduation Shield" /> | <img src="card.jpg" width="450" alt="Route Certificate" /> |
+
+- **Faculty Graduation Shield:** Recognized for outstanding academic performance at Menoufia University.
+- **EDPI Scholarship:** Selected for professional Flutter training by the Ministry of Communications.
+- **Flutter Diploma:** Successfully completed professional training at Route Academy.
+
+---
+
+## 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/hager-ibrahim-a026401b0) | [GitHub Profile](https://github.com/Hager220)
