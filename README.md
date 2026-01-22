@@ -20,7 +20,11 @@ Currently a trainee in the **Egypt Digital Pioneers Initiative (EDPI)** by MCIT.
 ## 🏆 Featured Projects
 - **Cairo Metro Navigator:** A smart transit app with pathfinding and GPS location.
 - **Doctor App (Graduation Project):** Healthcare platform integrated with AI.
-
+## 🎖 Honors & Recognition
+<p align="center">
+  <img src="اسم_صورة_الدرع.jpg" width="300" />
+  <img src="اسم_صورة_الشهادة.jpg" width="450" />
+</p>
 ---
 
 ## 🎖 Honors & Recognition
