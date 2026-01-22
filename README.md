@@ -18,7 +18,6 @@ Currently a trainee in the **Egypt Digital Pioneers Initiative (EDPI)** by MCIT.
 - **Tools:** Git, GitHub, Postman, Figma
 
 ## 🏆 Featured Projects
-- **Cairo Metro Navigator:** A smart transit app with pathfinding and GPS location.
 - **[Cairo Metro Navigator](https://github.com/Hager220/egypt_station):** A smart transit app with pathfinding and GPS location.
 - **Doctor App (Graduation Project):** Healthcare platform integrated with AI.
 
