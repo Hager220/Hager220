@@ -22,8 +22,8 @@ Currently a trainee in the **Egypt Digital Pioneers Initiative (EDPI)** by MCIT.
 - **Doctor App (Graduation Project):** Healthcare platform integrated with AI.
 ## 🎖 Honors & Recognition
 <p align="center">
-  <img src="اسم_صورة_الدرع.jpg" width="300" />
-  <img src="اسم_صورة_الشهادة.jpg" width="450" />
+  <img src="grad.jpg" width="300" />
+  <img src="card.jpg" width="450" />
 </p>
 ---
 
